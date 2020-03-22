@@ -66,3 +66,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Troubleshooting
+### When using Ubuntu on Windows
+```Error: spawn cmd.exe ENOENT``` when running ```npm start```:
+https://github.com/facebook/create-react-app/issues/7251#issuecomment-505286537
