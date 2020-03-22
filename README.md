@@ -70,4 +70,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Troubleshooting
 ### When using Ubuntu on Windows
 ```Error: spawn cmd.exe ENOENT``` when running ```npm start```:
+Add Windows Subsystem for Linux path to System32 ```export PATH=$PATH:/mnt/c/Windows/System32``` as per
 https://github.com/facebook/create-react-app/issues/7251#issuecomment-505286537
